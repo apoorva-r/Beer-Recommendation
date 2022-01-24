@@ -1,6 +1,6 @@
 # Beer Recommendation
 
-Follwed tutorials from here (https://github.com/mxie87/Beer_Recommender_CF) and here (https://github.com/ameyakarnad/BeerPersonalization)
+Follwed tutorials from [here] (https://github.com/mxie87/Beer_Recommender_CF) and [here] (https://github.com/ameyakarnad/BeerPersonalization)
 
 Created a recommendation system that will take a beer name as an input and return the top N recommendations based on item similiarity. Collaborative Filtering and content-based filtering approaches were researched and several algorithms like KNN, SVD, Matrix-factorization were also implemented. Data was collected from BeerAdvocate dataset(https://www.beeradvocate.com/) and stored on the local machine.
 
